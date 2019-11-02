@@ -1,0 +1,6 @@
+# deepfake相关资源
+
+|    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
+| ----------- | ------------------- | ----- | -------|
+|[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/pdf/1905.01723.pdf)|Few-Shot，gan，faceswap|https://github.com/NVlabs/FUNIT|一个src图片，多个des图片（属于同一类别），主要加入了判断是否是des类别的一个dis loss|
+|[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/pdf/1905.08233v1.pdf)||https://github.com/grey-eye/talking-heads||
